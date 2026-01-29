@@ -1,6 +1,6 @@
 <distributionManagement>
   <repository>
     <id>nexus</id>
-    <url>http://<nexus-ip>:8081/repository/maven-releases-Nani/</url>
+    <url>http://54.145.245.13:8081/repository/maven-releases-Nani/</url>
   </repository>
 </distributionManagement>
